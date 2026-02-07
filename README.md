@@ -15,12 +15,6 @@
 
 ---
 
-## 🛠️ Tech Arsenal  
-<p align="center">
-  <img src="https://skillicons.dev/icons?ilinux,git,github,bash" height="50"/>
-  
-  
-</p>
 
 ---
 
